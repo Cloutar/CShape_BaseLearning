@@ -1,0 +1,5 @@
+D:\C#_CODE\17\FunctionStruct\AddFun\bin\Debug\AddFun.exe.config
+D:\C#_CODE\17\FunctionStruct\AddFun\bin\Debug\AddFun.exe
+D:\C#_CODE\17\FunctionStruct\AddFun\bin\Debug\AddFun.pdb
+D:\C#_CODE\17\FunctionStruct\AddFun\obj\Debug\AddFun.exe
+D:\C#_CODE\17\FunctionStruct\AddFun\obj\Debug\AddFun.pdb

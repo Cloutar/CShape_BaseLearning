@@ -1,0 +1,6 @@
+D:\C#_CODE\14\memoryStruct\memoryStruct\bin\Debug\memoryStruct.exe.config
+D:\C#_CODE\14\memoryStruct\memoryStruct\bin\Debug\memoryStruct.exe
+D:\C#_CODE\14\memoryStruct\memoryStruct\bin\Debug\memoryStruct.pdb
+D:\C#_CODE\14\memoryStruct\memoryStruct\obj\Debug\memoryStruct.csprojResolveAssemblyReference.cache
+D:\C#_CODE\14\memoryStruct\memoryStruct\obj\Debug\memoryStruct.exe
+D:\C#_CODE\14\memoryStruct\memoryStruct\obj\Debug\memoryStruct.pdb

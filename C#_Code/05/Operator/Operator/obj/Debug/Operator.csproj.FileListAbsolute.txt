@@ -1,0 +1,6 @@
+C:\Users\fcrit\Desktop\C#_Code\05\Operator\Operator\bin\Debug\Operator.exe.config
+C:\Users\fcrit\Desktop\C#_Code\05\Operator\Operator\bin\Debug\Operator.exe
+C:\Users\fcrit\Desktop\C#_Code\05\Operator\Operator\bin\Debug\Operator.pdb
+C:\Users\fcrit\Desktop\C#_Code\05\Operator\Operator\obj\Debug\Operator.exe
+C:\Users\fcrit\Desktop\C#_Code\05\Operator\Operator\obj\Debug\Operator.pdb
+C:\Users\fcrit\Desktop\C#_Code\05\Operator\Operator\obj\Debug\Operator.csprojResolveAssemblyReference.cache

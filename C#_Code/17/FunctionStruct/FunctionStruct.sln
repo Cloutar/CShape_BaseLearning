@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionStruct", "FunctionStruct\FunctionStruct.csproj", "{2CA8E2C2-80F5-41DE-9F19-B4BFF8D71760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddFun", "AddFun\AddFun.csproj", "{CC4021FD-4FC2-45B4-B5D8-4B088AA7868A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA8E2C2-80F5-41DE-9F19-B4BFF8D71760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA8E2C2-80F5-41DE-9F19-B4BFF8D71760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA8E2C2-80F5-41DE-9F19-B4BFF8D71760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA8E2C2-80F5-41DE-9F19-B4BFF8D71760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4021FD-4FC2-45B4-B5D8-4B088AA7868A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4021FD-4FC2-45B4-B5D8-4B088AA7868A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4021FD-4FC2-45B4-B5D8-4B088AA7868A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4021FD-4FC2-45B4-B5D8-4B088AA7868A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

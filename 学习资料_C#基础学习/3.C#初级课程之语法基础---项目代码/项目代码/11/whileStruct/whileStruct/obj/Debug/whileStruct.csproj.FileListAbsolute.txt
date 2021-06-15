@@ -1,0 +1,6 @@
+D:\C#_CODE\11\whileStruct\whileStruct\bin\Debug\whileStruct.exe.config
+D:\C#_CODE\11\whileStruct\whileStruct\bin\Debug\whileStruct.exe
+D:\C#_CODE\11\whileStruct\whileStruct\bin\Debug\whileStruct.pdb
+D:\C#_CODE\11\whileStruct\whileStruct\obj\Debug\whileStruct.csprojResolveAssemblyReference.cache
+D:\C#_CODE\11\whileStruct\whileStruct\obj\Debug\whileStruct.exe
+D:\C#_CODE\11\whileStruct\whileStruct\obj\Debug\whileStruct.pdb

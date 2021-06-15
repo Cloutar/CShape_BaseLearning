@@ -1,0 +1,6 @@
+C:\Users\fcrit\Desktop\C#_Code\03\var\var\bin\Debug\var.exe.config
+C:\Users\fcrit\Desktop\C#_Code\03\var\var\bin\Debug\var.exe
+C:\Users\fcrit\Desktop\C#_Code\03\var\var\bin\Debug\var.pdb
+C:\Users\fcrit\Desktop\C#_Code\03\var\var\obj\Debug\var.csprojResolveAssemblyReference.cache
+C:\Users\fcrit\Desktop\C#_Code\03\var\var\obj\Debug\var.exe
+C:\Users\fcrit\Desktop\C#_Code\03\var\var\obj\Debug\var.pdb

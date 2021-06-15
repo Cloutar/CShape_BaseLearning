@@ -1,0 +1,6 @@
+D:\C#_CODE\03\var\var\bin\Debug\var.exe.config
+D:\C#_CODE\03\var\var\bin\Debug\var.exe
+D:\C#_CODE\03\var\var\bin\Debug\var.pdb
+D:\C#_CODE\03\var\var\obj\Debug\var.csprojResolveAssemblyReference.cache
+D:\C#_CODE\03\var\var\obj\Debug\var.exe
+D:\C#_CODE\03\var\var\obj\Debug\var.pdb

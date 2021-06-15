@@ -1,0 +1,6 @@
+D:\C#_CODE\18\FunctionParam\FunctionParam\bin\Debug\FunctionParam.exe.config
+D:\C#_CODE\18\FunctionParam\FunctionParam\bin\Debug\FunctionParam.exe
+D:\C#_CODE\18\FunctionParam\FunctionParam\bin\Debug\FunctionParam.pdb
+D:\C#_CODE\18\FunctionParam\FunctionParam\obj\Debug\FunctionParam.csprojResolveAssemblyReference.cache
+D:\C#_CODE\18\FunctionParam\FunctionParam\obj\Debug\FunctionParam.exe
+D:\C#_CODE\18\FunctionParam\FunctionParam\obj\Debug\FunctionParam.pdb

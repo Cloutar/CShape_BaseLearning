@@ -1,0 +1,6 @@
+C:\Users\fcrit\Desktop\C#_Code\08\IfStruct\IfStruct\bin\Debug\IfStruct.exe.config
+C:\Users\fcrit\Desktop\C#_Code\08\IfStruct\IfStruct\bin\Debug\IfStruct.exe
+C:\Users\fcrit\Desktop\C#_Code\08\IfStruct\IfStruct\bin\Debug\IfStruct.pdb
+C:\Users\fcrit\Desktop\C#_Code\08\IfStruct\IfStruct\obj\Debug\IfStruct.csprojResolveAssemblyReference.cache
+C:\Users\fcrit\Desktop\C#_Code\08\IfStruct\IfStruct\obj\Debug\IfStruct.exe
+C:\Users\fcrit\Desktop\C#_Code\08\IfStruct\IfStruct\obj\Debug\IfStruct.pdb
