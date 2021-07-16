@@ -1,6 +1,0 @@
-C:\Users\fcrit\Desktop\C#_Code\06\UserInput\UserInput\bin\Debug\UserInput.exe.config
-C:\Users\fcrit\Desktop\C#_Code\06\UserInput\UserInput\bin\Debug\UserInput.exe
-C:\Users\fcrit\Desktop\C#_Code\06\UserInput\UserInput\bin\Debug\UserInput.pdb
-C:\Users\fcrit\Desktop\C#_Code\06\UserInput\UserInput\obj\Debug\UserInput.csprojResolveAssemblyReference.cache
-C:\Users\fcrit\Desktop\C#_Code\06\UserInput\UserInput\obj\Debug\UserInput.exe
-C:\Users\fcrit\Desktop\C#_Code\06\UserInput\UserInput\obj\Debug\UserInput.pdb

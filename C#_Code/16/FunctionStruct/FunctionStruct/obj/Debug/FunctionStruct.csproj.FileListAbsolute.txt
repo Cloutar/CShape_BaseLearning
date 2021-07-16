@@ -1,5 +1,0 @@
-C:\Users\fcrit\Desktop\C#_Code\16\FunctionStruct\FunctionStruct\bin\Debug\FunctionStruct.exe.config
-C:\Users\fcrit\Desktop\C#_Code\16\FunctionStruct\FunctionStruct\bin\Debug\FunctionStruct.exe
-C:\Users\fcrit\Desktop\C#_Code\16\FunctionStruct\FunctionStruct\bin\Debug\FunctionStruct.pdb
-C:\Users\fcrit\Desktop\C#_Code\16\FunctionStruct\FunctionStruct\obj\Debug\FunctionStruct.exe
-C:\Users\fcrit\Desktop\C#_Code\16\FunctionStruct\FunctionStruct\obj\Debug\FunctionStruct.pdb

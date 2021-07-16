@@ -1,5 +1,0 @@
-C:\Users\fcrit\Desktop\C#_Code\18\FunctionParam\outParam\bin\Debug\outParam.exe.config
-C:\Users\fcrit\Desktop\C#_Code\18\FunctionParam\outParam\bin\Debug\outParam.exe
-C:\Users\fcrit\Desktop\C#_Code\18\FunctionParam\outParam\bin\Debug\outParam.pdb
-C:\Users\fcrit\Desktop\C#_Code\18\FunctionParam\outParam\obj\Debug\outParam.exe
-C:\Users\fcrit\Desktop\C#_Code\18\FunctionParam\outParam\obj\Debug\outParam.pdb

@@ -1,6 +1,0 @@
-C:\Users\fcrit\Desktop\C#_Code\11\whileStruct\whileStruct\bin\Debug\whileStruct.exe.config
-C:\Users\fcrit\Desktop\C#_Code\11\whileStruct\whileStruct\bin\Debug\whileStruct.exe
-C:\Users\fcrit\Desktop\C#_Code\11\whileStruct\whileStruct\bin\Debug\whileStruct.pdb
-C:\Users\fcrit\Desktop\C#_Code\11\whileStruct\whileStruct\obj\Debug\whileStruct.csprojResolveAssemblyReference.cache
-C:\Users\fcrit\Desktop\C#_Code\11\whileStruct\whileStruct\obj\Debug\whileStruct.exe
-C:\Users\fcrit\Desktop\C#_Code\11\whileStruct\whileStruct\obj\Debug\whileStruct.pdb

@@ -1,6 +1,0 @@
-C:\Users\fcrit\Desktop\C#_Code\12\ArrayStruct\ArrayStruct\bin\Debug\ArrayStruct.exe.config
-C:\Users\fcrit\Desktop\C#_Code\12\ArrayStruct\ArrayStruct\bin\Debug\ArrayStruct.exe
-C:\Users\fcrit\Desktop\C#_Code\12\ArrayStruct\ArrayStruct\bin\Debug\ArrayStruct.pdb
-C:\Users\fcrit\Desktop\C#_Code\12\ArrayStruct\ArrayStruct\obj\Debug\ArrayStruct.csprojResolveAssemblyReference.cache
-C:\Users\fcrit\Desktop\C#_Code\12\ArrayStruct\ArrayStruct\obj\Debug\ArrayStruct.exe
-C:\Users\fcrit\Desktop\C#_Code\12\ArrayStruct\ArrayStruct\obj\Debug\ArrayStruct.pdb

@@ -1,5 +1,0 @@
-C:\Users\fcrit\Desktop\C#_Code\03\var\dataType\bin\Debug\dataType.exe.config
-C:\Users\fcrit\Desktop\C#_Code\03\var\dataType\bin\Debug\dataType.exe
-C:\Users\fcrit\Desktop\C#_Code\03\var\dataType\bin\Debug\dataType.pdb
-C:\Users\fcrit\Desktop\C#_Code\03\var\dataType\obj\Debug\dataType.exe
-C:\Users\fcrit\Desktop\C#_Code\03\var\dataType\obj\Debug\dataType.pdb

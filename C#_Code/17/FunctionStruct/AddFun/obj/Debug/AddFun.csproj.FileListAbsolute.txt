@@ -1,6 +1,0 @@
-C:\Users\fcrit\Desktop\C#_Code\17\FunctionStruct\AddFun\bin\Debug\AddFun.exe.config
-C:\Users\fcrit\Desktop\C#_Code\17\FunctionStruct\AddFun\bin\Debug\AddFun.exe
-C:\Users\fcrit\Desktop\C#_Code\17\FunctionStruct\AddFun\bin\Debug\AddFun.pdb
-C:\Users\fcrit\Desktop\C#_Code\17\FunctionStruct\AddFun\obj\Debug\AddFun.exe
-C:\Users\fcrit\Desktop\C#_Code\17\FunctionStruct\AddFun\obj\Debug\AddFun.pdb
-C:\Users\fcrit\Desktop\C#_Code\17\FunctionStruct\AddFun\obj\Debug\AddFun.csprojResolveAssemblyReference.cache

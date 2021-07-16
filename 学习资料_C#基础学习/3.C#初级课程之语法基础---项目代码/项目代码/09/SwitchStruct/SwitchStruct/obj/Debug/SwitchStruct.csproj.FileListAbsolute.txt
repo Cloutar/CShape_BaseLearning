@@ -1,6 +1,0 @@
-D:\C#_CODE\09\SwitchStruct\SwitchStruct\bin\Debug\SwitchStruct.exe.config
-D:\C#_CODE\09\SwitchStruct\SwitchStruct\bin\Debug\SwitchStruct.exe
-D:\C#_CODE\09\SwitchStruct\SwitchStruct\bin\Debug\SwitchStruct.pdb
-D:\C#_CODE\09\SwitchStruct\SwitchStruct\obj\Debug\SwitchStruct.csprojResolveAssemblyReference.cache
-D:\C#_CODE\09\SwitchStruct\SwitchStruct\obj\Debug\SwitchStruct.exe
-D:\C#_CODE\09\SwitchStruct\SwitchStruct\obj\Debug\SwitchStruct.pdb

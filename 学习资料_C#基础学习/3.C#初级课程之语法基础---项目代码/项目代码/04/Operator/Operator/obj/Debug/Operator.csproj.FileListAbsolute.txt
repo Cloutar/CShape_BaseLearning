@@ -1,6 +1,0 @@
-D:\C#_CODE\04\Operator\Operator\bin\Debug\Operator.exe.config
-D:\C#_CODE\04\Operator\Operator\bin\Debug\Operator.exe
-D:\C#_CODE\04\Operator\Operator\bin\Debug\Operator.pdb
-D:\C#_CODE\04\Operator\Operator\obj\Debug\Operator.csprojResolveAssemblyReference.cache
-D:\C#_CODE\04\Operator\Operator\obj\Debug\Operator.exe
-D:\C#_CODE\04\Operator\Operator\obj\Debug\Operator.pdb

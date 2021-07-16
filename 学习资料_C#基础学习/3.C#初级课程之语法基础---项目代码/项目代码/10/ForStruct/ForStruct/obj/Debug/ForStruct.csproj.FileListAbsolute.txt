@@ -1,6 +1,0 @@
-D:\C#_CODE\10\ForStruct\ForStruct\bin\Debug\ForStruct.exe.config
-D:\C#_CODE\10\ForStruct\ForStruct\bin\Debug\ForStruct.exe
-D:\C#_CODE\10\ForStruct\ForStruct\bin\Debug\ForStruct.pdb
-D:\C#_CODE\10\ForStruct\ForStruct\obj\Debug\ForStruct.csprojResolveAssemblyReference.cache
-D:\C#_CODE\10\ForStruct\ForStruct\obj\Debug\ForStruct.exe
-D:\C#_CODE\10\ForStruct\ForStruct\obj\Debug\ForStruct.pdb

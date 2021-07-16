@@ -1,6 +1,0 @@
-D:\C#_CODE\16\FunctionStruct\FunctionStruct\bin\Debug\FunctionStruct.exe.config
-D:\C#_CODE\16\FunctionStruct\FunctionStruct\bin\Debug\FunctionStruct.exe
-D:\C#_CODE\16\FunctionStruct\FunctionStruct\bin\Debug\FunctionStruct.pdb
-D:\C#_CODE\16\FunctionStruct\FunctionStruct\obj\Debug\FunctionStruct.csprojResolveAssemblyReference.cache
-D:\C#_CODE\16\FunctionStruct\FunctionStruct\obj\Debug\FunctionStruct.exe
-D:\C#_CODE\16\FunctionStruct\FunctionStruct\obj\Debug\FunctionStruct.pdb

@@ -1,5 +1,0 @@
-C:\Users\fcrit\Desktop\C#_Code\18\FunctionParam\FunctionParam\bin\Debug\FunctionParam.exe.config
-C:\Users\fcrit\Desktop\C#_Code\18\FunctionParam\FunctionParam\bin\Debug\FunctionParam.exe
-C:\Users\fcrit\Desktop\C#_Code\18\FunctionParam\FunctionParam\bin\Debug\FunctionParam.pdb
-C:\Users\fcrit\Desktop\C#_Code\18\FunctionParam\FunctionParam\obj\Debug\FunctionParam.exe
-C:\Users\fcrit\Desktop\C#_Code\18\FunctionParam\FunctionParam\obj\Debug\FunctionParam.pdb

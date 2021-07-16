@@ -1,6 +1,0 @@
-C:\Users\fcrit\Desktop\C#_Code\07\TypeConvert\TypeConvert\bin\Debug\TypeConvert.exe.config
-C:\Users\fcrit\Desktop\C#_Code\07\TypeConvert\TypeConvert\bin\Debug\TypeConvert.exe
-C:\Users\fcrit\Desktop\C#_Code\07\TypeConvert\TypeConvert\bin\Debug\TypeConvert.pdb
-C:\Users\fcrit\Desktop\C#_Code\07\TypeConvert\TypeConvert\obj\Debug\TypeConvert.csprojResolveAssemblyReference.cache
-C:\Users\fcrit\Desktop\C#_Code\07\TypeConvert\TypeConvert\obj\Debug\TypeConvert.exe
-C:\Users\fcrit\Desktop\C#_Code\07\TypeConvert\TypeConvert\obj\Debug\TypeConvert.pdb

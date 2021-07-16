@@ -1,6 +1,0 @@
-D:\C#_CODE\19\FunctionDG\FunctionDG\bin\Debug\FunctionDG.exe.config
-D:\C#_CODE\19\FunctionDG\FunctionDG\bin\Debug\FunctionDG.exe
-D:\C#_CODE\19\FunctionDG\FunctionDG\bin\Debug\FunctionDG.pdb
-D:\C#_CODE\19\FunctionDG\FunctionDG\obj\Debug\FunctionDG.csprojResolveAssemblyReference.cache
-D:\C#_CODE\19\FunctionDG\FunctionDG\obj\Debug\FunctionDG.exe
-D:\C#_CODE\19\FunctionDG\FunctionDG\obj\Debug\FunctionDG.pdb

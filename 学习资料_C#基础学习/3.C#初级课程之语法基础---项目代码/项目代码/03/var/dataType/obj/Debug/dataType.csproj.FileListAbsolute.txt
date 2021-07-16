@@ -1,6 +1,0 @@
-D:\C#_CODE\03\var\dataType\bin\Debug\dataType.exe.config
-D:\C#_CODE\03\var\dataType\bin\Debug\dataType.exe
-D:\C#_CODE\03\var\dataType\bin\Debug\dataType.pdb
-D:\C#_CODE\03\var\dataType\obj\Debug\dataType.csprojResolveAssemblyReference.cache
-D:\C#_CODE\03\var\dataType\obj\Debug\dataType.exe
-D:\C#_CODE\03\var\dataType\obj\Debug\dataType.pdb

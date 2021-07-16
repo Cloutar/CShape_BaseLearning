@@ -1,6 +1,0 @@
-C:\Users\fcrit\Desktop\C#_Code\13\ForEachStruct\ForEachStruct\bin\Debug\ForEachStruct.exe.config
-C:\Users\fcrit\Desktop\C#_Code\13\ForEachStruct\ForEachStruct\bin\Debug\ForEachStruct.exe
-C:\Users\fcrit\Desktop\C#_Code\13\ForEachStruct\ForEachStruct\bin\Debug\ForEachStruct.pdb
-C:\Users\fcrit\Desktop\C#_Code\13\ForEachStruct\ForEachStruct\obj\Debug\ForEachStruct.csprojResolveAssemblyReference.cache
-C:\Users\fcrit\Desktop\C#_Code\13\ForEachStruct\ForEachStruct\obj\Debug\ForEachStruct.exe
-C:\Users\fcrit\Desktop\C#_Code\13\ForEachStruct\ForEachStruct\obj\Debug\ForEachStruct.pdb

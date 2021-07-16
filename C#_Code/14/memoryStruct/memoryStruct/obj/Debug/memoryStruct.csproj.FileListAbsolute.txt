@@ -1,6 +1,0 @@
-C:\Users\fcrit\Desktop\C#_Code\14\memoryStruct\memoryStruct\bin\Debug\memoryStruct.exe.config
-C:\Users\fcrit\Desktop\C#_Code\14\memoryStruct\memoryStruct\bin\Debug\memoryStruct.exe
-C:\Users\fcrit\Desktop\C#_Code\14\memoryStruct\memoryStruct\bin\Debug\memoryStruct.pdb
-C:\Users\fcrit\Desktop\C#_Code\14\memoryStruct\memoryStruct\obj\Debug\memoryStruct.exe
-C:\Users\fcrit\Desktop\C#_Code\14\memoryStruct\memoryStruct\obj\Debug\memoryStruct.pdb
-C:\Users\fcrit\Desktop\C#_Code\14\memoryStruct\memoryStruct\obj\Debug\memoryStruct.csprojResolveAssemblyReference.cache
