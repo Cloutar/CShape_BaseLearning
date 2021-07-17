@@ -30,8 +30,4 @@ Document my learning the basics of C#
 
 # 备注
 
-Data Struct learning~
-
-## ToDo
-
-有空整理一下目录, 方便回忆~
+* __TODO__: 有空整理一下目录, 方便回忆~
